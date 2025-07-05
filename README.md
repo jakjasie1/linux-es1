@@ -2,8 +2,8 @@ This is a guide (including a post-install script) to install Fedora on Acer Aspi
 Since this is a weak laptop with only 4 GB RAM, I recommend to download the XFCE4 or LXQT spins of Fedora. They will run better than Workstation or KDE editions. <br>
 
 Step 1. Obtain the installer image for Fedora. Flash it to an USB using Rufus (Windows) or Ventoy (Windows, Linux). <br>
-Step 2. Boot it on your Acer. You can spam the F12 key during startup and select your USB drive. <br>
-Step 3. Once you get to the installer, select "Installation destination". <br>
+Step 2. Enter the UEFI/BIOS on your Acer by pressing F2 during startup. Head to the "Boot" tab. Make sure "Secure boot" is set to "disabled". Move your USB drive to the very top of the boot priority list. Save changes and exit. The laptop will reboot and load Fedora. <br>
+Step 3. Once you get to the desktop, start the installer. Select "Installation destination". <br>
 Follow the pictures below.
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_115845.png?raw=true)
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_120018.png?raw=true)
