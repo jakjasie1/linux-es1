@@ -7,6 +7,7 @@ Step 3. Once you get to the desktop, start the installer. Select "Installation d
 Follow the pictures below.
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_115845.png?raw=true)
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_120018.png?raw=true)
+NOTE: If you have any other OS currently installed on the drive, please select the partitions and delete them first!
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_120133.png?raw=true)
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_120347.png?raw=true)
 
