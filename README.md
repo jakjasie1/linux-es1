@@ -11,7 +11,14 @@ NOTE: If you have any other OS currently installed on the drive, please select t
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_120133.png?raw=true)
 ![Description](https://github.com/jakjasie1/linux-es1/blob/main/screenshots/Screenshot_20250705_120347.png?raw=true)
 
-Now configure the rest of the installer to your preferences and install.
+Now configure the rest of the installer to your preferences and install. <br>
+
+After the installation finishes, open a terminal.
+Download the post-install script to configure your bootloader. `curl -O https://raw.githubusercontent.com/jakjasie1/linux-es1/refs/heads/main/fedora-es1-533.sh` <br>
+Make it executable. `chmod +x fedora-es1-533.sh` <br>
+Start it. `bash fedora-es1-533.sh`
+
+After it's completed, you can reboot. It should boot your Fedora.
 
 
 
