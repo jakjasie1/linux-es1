@@ -27,3 +27,4 @@ Fedora Workstation 42 features a new installer. It is impossible to install on t
 This creates a new issue: the EVERYTHING image can't download packages like normal live images can. You still need to boot a live version of Fedora (like Workstation or XFCE4) for it to work.
 
 Contact on Discord: `jakjasie1`
+Discovered here: https://community.acer.com/en/discussion/comment/926713?utm_source=community-share#Comment_926713
